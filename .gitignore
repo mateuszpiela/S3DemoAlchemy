@@ -1,5 +1,5 @@
-target
-.settings
-.project
-.classpath
-application.properties
+/target
+/.settings
+/.project
+/.classpath
+/application.properties
